@@ -13,8 +13,7 @@ Burada, en sık karşılaşılan sorunların çözümlerini, kullanım rehberler
 Eğer burada yer alan bilgiler sorununuzu çözmezse, IT ekibi ile iletişime geçebilirsiniz.  
 
 📧 **E-posta:** [it@istanbulshipyard.com](mailto:it@istanbulshipyard.com)  
-📞 **Telefon:** Dahili 1001  
-🌐 **IT Destek Sistemi:** [IT Destek Portalı](https://it.istanbulshipyard.com) *(Varsa gerçek link eklenebilir)*  
+📞 **Telefon:** Dahili 1311  
 
 ---
 
