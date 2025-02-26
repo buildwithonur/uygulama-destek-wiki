@@ -1,5 +1,3 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
-title: İstanbul Shipyard - Uygulama Destek Wiki
-description: İstanbul Shipyard çalışanları için IT rehberi
-include: ["_pages"]
+
